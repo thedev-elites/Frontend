@@ -1,4 +1,4 @@
-# CareerWise - Frontend
+# CareerSyncAI - Frontend
 
 ![CareerWise Logo](public/logo.png)
 
